@@ -1,5 +1,4 @@
-//CPSC 359 Assignment 4
-//Team Members: Deepshikha Dhammi, Kanika Kapila 
+//Raspberry Pi Game 
 
 
 #include <unistd.h>
